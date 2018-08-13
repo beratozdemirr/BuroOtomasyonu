@@ -1,0 +1,31 @@
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.exe.config
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.exe
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.pdb
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.csprojResolveAssemblyReference.cache
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormGiris.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormAnaEkran.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.Properties.Resources.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.csproj.GenerateResource.Cache
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.exe
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.pdb
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormPersoneller.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormMusteriler.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormToplatilar.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormGorevler.resources
+C:\Users\berat\Desktop\staj proje\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormOdemeler.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.exe.config
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.exe
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\bin\Debug\ProvegaDeneme.pdb
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.csprojResolveAssemblyReference.cache
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormGiris.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormAnaEkran.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormGorevler.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormMusteriler.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormOdemeler.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormPersoneller.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.FormToplatilar.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.Properties.Resources.resources
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.csproj.GenerateResource.cache
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.csproj.CoreCompileInputs.cache
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.exe
+G:\a.OKUL-DERS-PROG-vs.vs\PROVEGA STAJ PROJESİ\ProvegaDeneme\ProvegaDeneme\obj\Debug\ProvegaDeneme.pdb
